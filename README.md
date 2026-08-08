@@ -59,7 +59,7 @@ s.close()
 ## OUTPUT
 
 <img width="345" height="221" alt="Screenshot 2026-08-08 140121" src="https://github.com/user-attachments/assets/8ee4e931-6426-4d50-b674-0f5e7d527bb8" />
-
+<br><br>
 <img width="565" height="156" alt="image" src="https://github.com/user-attachments/assets/e74850a2-2c3e-46a5-8795-30fd5fd8de62" />
 
 ## RESULT
